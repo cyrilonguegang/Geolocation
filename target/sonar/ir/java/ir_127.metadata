@@ -1,0 +1,1 @@
+com.spring.bioMedical.Controller.RegisterController#confirmRegistration(Lorg/springframework/web/servlet/ModelAndView;Lorg/springframework/validation/BindingResult;Ljava/util/Map;Lorg/springframework/web/servlet/mvc/support/RedirectAttributes;)Lorg/springframework/web/servlet/ModelAndView;
